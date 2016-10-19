@@ -14,3 +14,7 @@ Class Diagram
 * ร้านค้าในห้างและตลาด : 3
 
 ![](http://www.plantuml.com/plantuml/img/ZP51JiCm44NNzIbyWTx0YagBw8e5Oe5OJf9fQddiiSPEgnHnTnoYAWOsxFv_u-y_bdSfW-JHarB9sH11mEkE82NzeJPxwDmWF8R-mCIYemrERHv4-Be0mRwSOkbH5l0QnORXA8ZXJzoO9-QcqMzdXFmZTf-qDABwh3P96GKvJn4FltTvHoA-Bat_2HYZIuakBO_M7mKcfPv176PjJDCKJNHNtvItMtt1F626bh2c0mZPhYOdcywrz_C3bojdosLiLpl1n9LrfqwlphjLHtkxmMfRQErBX89s6Fhvpxu0)
+
+* การส่งลูกเข้าเรียน : 4
+
+![](http://www.plantuml.com/plantuml/img/JP31RiCm28RlF0LIpr7VOEfQQRtijCkq8tM8RSM1p2QgedNlFYTTeqeS3DyF_FXGZB9DGm8eVPIHCWru8TVxh9EqJfDcV1MBtnEVCxFipvhQ9wrBLCfnQpYj3P-1oMudpT8blN8-fea1LYc-qH3JZBlCRJDpgXn4ZJ5nPwZTnZMJU0P42x5WZUuEhYI6fbX9uUKP62ywBwNYWce2bXQNaV2OrJIt5_od26CrIvuV-MwCqk_Vem-sdCRoeUtNwWj_wewxQMDoWVEM5vkgqfwu2r9FztCjBV4BSAW-wiV-0G00)
