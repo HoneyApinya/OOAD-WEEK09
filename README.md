@@ -18,3 +18,8 @@ Class Diagram
 * การส่งลูกเข้าเรียน : 4
 
 ![](http://www.plantuml.com/plantuml/img/JP31RiCm28RlF0LIpr7VOEfQQRtijCkq8tM8RSM1p2QgedNlFYTTeqeS3DyF_FXGZB9DGm8eVPIHCWru8TVxh9EqJfDcV1MBtnEVCxFipvhQ9wrBLCfnQpYj3P-1oMudpT8blN8-fea1LYc-qH3JZBlCRJDpgXn4ZJ5nPwZTnZMJU0P42x5WZUuEhYI6fbX9uUKP62ywBwNYWce2bXQNaV2OrJIt5_od26CrIvuV-MwCqk_Vem-sdCRoeUtNwWj_wewxQMDoWVEM5vkgqfwu2r9FztCjBV4BSAW-wiV-0G00)
+
+
+* การใช้เทคโนโลยี : 5
+
+![](http://www.plantuml.com/plantuml/img/RP312i8m44Jl-nK37ZpLWqX1y20KSXRq1zAurj8q6veK5VNVJHL5fNlOovkP7NOTekvYtrgQOkjj7L6xA5Z0wue33Hlpyvp8M1q2TcoEJgnK5qoAGgay9tAwvU2rOKHTMewOABLS5iMLa6RsPLdTiWn975Bg4mA7v2j56gp-qBZvBNz9xZ_7sR8_YkDNCwKm5DXm5yG1oMkqjIefQIJtmrBa7pFI-ZvoDpj9rz2QtJvzwm40)
