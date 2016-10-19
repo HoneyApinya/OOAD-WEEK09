@@ -23,3 +23,24 @@ Class Diagram
 * การใช้เทคโนโลยี : 5
 
 ![](http://www.plantuml.com/plantuml/img/RP312i8m44Jl-nK37ZpLWqX1y20KSXRq1zAurj8q6veK5VNVJHL5fNlOovkP7NOTekvYtrgQOkjj7L6xA5Z0wue33Hlpyvp8M1q2TcoEJgnK5qoAGgay9tAwvU2rOKHTMewOABLS5iMLa6RsPLdTiWn975Bg4mA7v2j56gp-qBZvBNz9xZ_7sR8_YkDNCwKm5DXm5yG1oMkqjIefQIJtmrBa7pFI-ZvoDpj9rz2QtJvzwm40)
+@startuml
+' Split into 4 pages
+page 2x2
+
+class Technology #CCFF66
+
+namespace tablet #FF99CC{
+    .Technology <|-- message
+      facebook <-- message
+    
+    .Technology <|-- facebook
+    
+}
+
+namespace telephone #CCFFFF {
+  Person  -- callFace
+  .Technology <|-- callFace
+}
+
+Technology <|--computer.work
+@enduml
