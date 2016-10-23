@@ -32,10 +32,22 @@ PersonID
 ```
 * อาหาร : 2
 
-![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuNBBpqzHiAdHrLN80x9oKf44YZAJaRWPYRb9fKNfgKLS8E2GcfS2r0u0)
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuU9ApaaiBbPmoyzFKL2sj7HpStRc0dDiQdHr5VA0h9nK1IIHeina57v6OcvIQL5wQX7C9AWMe5dEpfQMK46mBcLd830pWmh1DIeekxbPMWB5kRWSKlDIW8u20000)
 
 ```
+@startuml
 
+class Food #99FFCC
+Food <|-- noodle 
+Food <|-- rice 
+Food <|-- hamburger
+
+class noodle #99CC99
+class rice #CCCC66
+class hamburger #FF9966
+
+
+@enduml
 ```
 
 * ร้านค้าในห้างและตลาด : 3
