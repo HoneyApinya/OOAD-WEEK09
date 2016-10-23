@@ -52,10 +52,26 @@ class hamburger #FF9966
 
 * ร้านค้าในห้างและตลาด : 3
 
-![](http://www.plantuml.com/plantuml/img/ZP51JiCm44NNzIbyWTx0YagBw8e5Oe5OJf9fQddiiSPEgnHnTnoYAWOsxFv_u-y_bdSfW-JHarB9sH11mEkE82NzeJPxwDmWF8R-mCIYemrERHv4-Be0mRwSOkbH5l0QnORXA8ZXJzoO9-QcqMzdXFmZTf-qDABwh3P96GKvJn4FltTvHoA-Bat_2HYZIuakBO_M7mKcfPv176PjJDCKJNHNtvItMtt1F626bh2c0mZPhYOdcywrz_C3bojdosLiLpl1n9LrfqwlphjLHtkxmMfRQErBX89s6Fhvpxu0)
+![](http://www.plantuml.com/plantuml/img/RP112i8m44NtESL0rWN9GWsug1QpS-4H9Z6j8KbRaYYqU7X3aL8Xi_ll3SFmwvWmf9TtX2Y7CS8DWzK9AET2D0tvnTEdgk2jKwSJIgU12h7BywSx3CweecfDV1Q5rvXMiNxW7D0hv_l3cInXMHto3GEKiUE5iGsVS1fAlBMgGBs50XtDF6E1ImpIt4VSI5Bh_f7x-W80)
 
 ```
+@startuml
 
+class Market #99FFCC
+Market <|-- vetgetable #FF0000
+Market <|-- garlic #FF0000
+Market <|-- fish #FF0000
+Market <|-- meat #FF0000
+
+class Mall #E9967A
+Mall <|-- oishi #228B22
+Mall <|-- yayoi #228B22
+Mall <|-- fkc #228B22
+Mall <|-- mk  #228B22
+Mall <|-- pizza #228B22
+Mall <|-- barbiQpaza #228B22
+
+@enduml
 ```
 
 
