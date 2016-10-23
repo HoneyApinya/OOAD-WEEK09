@@ -77,9 +77,28 @@ Mall <|-- barbiQpaza #228B22
 
 * การส่งลูกเข้าเรียน : 4
 
-![](http://www.plantuml.com/plantuml/img/JP31RiCm28RlF0LIpr7VOEfQQRtijCkq8tM8RSM1p2QgedNlFYTTeqeS3DyF_FXGZB9DGm8eVPIHCWru8TVxh9EqJfDcV1MBtnEVCxFipvhQ9wrBLCfnQpYj3P-1oMudpT8blN8-fea1LYc-qH3JZBlCRJDpgXn4ZJ5nPwZTnZMJU0P42x5WZUuEhYI6fbX9uUKP62ywBwNYWce2bXQNaV2OrJIt5_od26CrIvuV-MwCqk_Vem-sdCRoeUtNwWj_wewxQMDoWVEM5vkgqfwu2r9FztCjBV4BSAW-wiV-0G00)
+![](http://www.plantuml.com/plantuml/img/JP1DReD038NtFeKbrb7Rj6fWKuM1S85soMOOp8yop4GpHX5AU_UQ9erYUMD_Jq_FtaVMWUV90iJZw4uww0aRROvzyBDhZRS-O5A-7AJgSglUqk91QAoEKTtLnLNTs9dgGvQzx_8Qu4-3bPv6ko1kDjyVqGpUMt2U2IrrZBxxvqbHgjTK0I8FOqJfRWMCP-qOsGk8v5gXX8rVP8CtjtMxEWAS98_kwGOmgVBqURTzggeoLnbUnE8QwOkq6IZSvq-UMtBym8sJW_e5VW3suYzV-WK0)
 
 ```
+@startuml
+
+skinparam backgroundcolor #D1EEEE\D2B48C
+skinparam classBackgroundColor #blue\E9967A\
+
+class Family  --|>school
+note left of Family #CDB38B
+  this is familt want to
+  send the boy to school
+end note
+
+package school #FA8072/FFDAB9 {
+  class Teacher
+  class Student
+  class Tecnology
+}
+
+@enduml
+
 
 ```
 
